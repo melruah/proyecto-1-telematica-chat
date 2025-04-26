@@ -1,6 +1,11 @@
 # proyecto-1-telematica-chat
 Chat Cliente-Servidor en C
 
+# LINK DE VIDEO  
+https://youtu.be/1NTeSHq14q4?si=PoClFKPNlaktJ8rs
+
+
+
 # Introducción
 
 Este proyecto consiste en un sistema de chat básico desarrollado en lenguaje C, siguiendo el modelo cliente-servidor. El objetivo era permitir que varios clientes se conectaran a un servidor y pudieran intercambiar mensajes en tiempo real a través de una red. Se utilizó programación con sockets TCP y se implementó el servidor en una máquina virtual en la nube (AWS EC2), mientras que el cliente se ejecutó desde una máquina virtual local (VirtualBox).
